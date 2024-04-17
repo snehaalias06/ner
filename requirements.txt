@@ -1,7 +1,6 @@
 streamlit>=0.88.0
 spacy>=3.2.0
 newspaper3k>=0.2.8
-pprint
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 lxml_html_clean
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz

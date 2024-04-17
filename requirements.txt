@@ -1,6 +1,7 @@
-spacy
-streamlit
-newspaper3k
+pip install streamlit>=0.88.0
+pip install spacy>=3.2.0
+pip install newspaper3k>=0.2.8
 pprint
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 lxml_html_clean
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
